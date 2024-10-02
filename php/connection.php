@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $user = "root";
-$pass = "Hauntedgrounds5421"; // edit if you have set a password
+$pass = "your_password"; // edit if you have set a password
 $name = "CAT1";
 
 $conn = new mysqli($servername, $user, $pass, $name);
