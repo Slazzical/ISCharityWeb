@@ -1,8 +1,8 @@
 <?php
-$host = "127.0.0.1";
-$user = "root"; 
-$pass = ""; // edit if you have set a password
-$name = "donation_system";
+$host = "102.37.19.54";
+$user = "root";
+$pass = "Hauntedgrounds5421"; // edit if you have set a password
+$name = "CAT1";
 
 $conn = new mysqli($host, $user, $pass, $name);
 
